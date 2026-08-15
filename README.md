@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/aryanyadav13/SQL/tree/main/0180-consecutive-numbers/) | Medium |
 | [0610-triangle-judgement](https://github.com/aryanyadav13/SQL/tree/main/0610-triangle-judgement/) | Easy |
+| [0626-exchange-seats](https://github.com/aryanyadav13/SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/aryanyadav13/SQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
