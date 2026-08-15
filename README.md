@@ -18,4 +18,5 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1907-count-salary-categories](https://github.com/aryanyadav13/SQL/tree/main/1907-count-salary-categories/) | Medium |
 <!---LeetCode Topics End-->
