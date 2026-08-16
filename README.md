@@ -22,6 +22,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aryanyadav13/SQL/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/aryanyadav13/SQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/aryanyadav13/SQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryanyadav13/SQL/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
