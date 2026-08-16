@@ -20,6 +20,7 @@
 | [0626-exchange-seats](https://github.com/aryanyadav13/SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/aryanyadav13/SQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/aryanyadav13/SQL/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/aryanyadav13/SQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryanyadav13/SQL/tree/main/1667-fix-names-in-a-table/) | Easy |
