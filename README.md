@@ -16,6 +16,7 @@
 | [0180-consecutive-numbers](https://github.com/aryanyadav13/SQL/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/aryanyadav13/SQL/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/aryanyadav13/SQL/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/aryanyadav13/SQL/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/aryanyadav13/SQL/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/aryanyadav13/SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/aryanyadav13/SQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
