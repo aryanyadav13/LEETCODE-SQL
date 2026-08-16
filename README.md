@@ -20,6 +20,7 @@
 | [0626-exchange-seats](https://github.com/aryanyadav13/SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/aryanyadav13/SQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryanyadav13/SQL/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1789-primary-department-for-each-employee/) | Easy |
