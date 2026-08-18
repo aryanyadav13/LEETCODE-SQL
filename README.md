@@ -32,6 +32,7 @@
 | [1484-group-sold-products-by-the-date](https://github.com/aryanyadav13/SQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/aryanyadav13/SQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aryanyadav13/SQL/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryanyadav13/SQL/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/aryanyadav13/SQL/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
