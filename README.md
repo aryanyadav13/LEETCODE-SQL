@@ -17,6 +17,7 @@
 | [0185-department-top-three-salaries](https://github.com/aryanyadav13/SQL/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/aryanyadav13/SQL/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/aryanyadav13/SQL/tree/main/0197-rising-temperature/) | Easy |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/aryanyadav13/SQL/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/aryanyadav13/SQL/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/aryanyadav13/SQL/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/aryanyadav13/SQL/tree/main/0595-big-countries/) | Easy |
