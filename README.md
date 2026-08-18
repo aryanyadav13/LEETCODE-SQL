@@ -27,6 +27,7 @@
 | [1321-restaurant-growth](https://github.com/aryanyadav13/SQL/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/aryanyadav13/SQL/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1341-movie-rating](https://github.com/aryanyadav13/SQL/tree/main/1341-movie-rating/) | Medium |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/aryanyadav13/SQL/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/aryanyadav13/SQL/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/aryanyadav13/SQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
