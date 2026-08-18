@@ -16,6 +16,7 @@
 | [0180-consecutive-numbers](https://github.com/aryanyadav13/SQL/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/aryanyadav13/SQL/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/aryanyadav13/SQL/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/aryanyadav13/SQL/tree/main/0197-rising-temperature/) | Easy |
 | [0585-investments-in-2016](https://github.com/aryanyadav13/SQL/tree/main/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/aryanyadav13/SQL/tree/main/0595-big-countries/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/aryanyadav13/SQL/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
