@@ -31,6 +31,7 @@
 | [1517-find-users-with-valid-e-mails](https://github.com/aryanyadav13/SQL/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/aryanyadav13/SQL/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/aryanyadav13/SQL/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1683-invalid-tweets](https://github.com/aryanyadav13/SQL/tree/main/1683-invalid-tweets/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/aryanyadav13/SQL/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/aryanyadav13/SQL/tree/main/1789-primary-department-for-each-employee/) | Easy |
