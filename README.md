@@ -25,6 +25,7 @@
 | [0610-triangle-judgement](https://github.com/aryanyadav13/SQL/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/aryanyadav13/SQL/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/aryanyadav13/SQL/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/aryanyadav13/SQL/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/aryanyadav13/SQL/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/aryanyadav13/SQL/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/aryanyadav13/SQL/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
