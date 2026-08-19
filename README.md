@@ -52,4 +52,5 @@
 | [1907-count-salary-categories](https://github.com/aryanyadav13/SQL/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/aryanyadav13/SQL/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/aryanyadav13/SQL/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/aryanyadav13/SQL/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
