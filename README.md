@@ -15,6 +15,7 @@
 | [0175-combine-two-tables](https://github.com/aryanyadav13/SQL/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/aryanyadav13/SQL/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/aryanyadav13/SQL/tree/main/0180-consecutive-numbers/) | Medium |
+| [0181-employees-earning-more-than-their-managers](https://github.com/aryanyadav13/SQL/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0185-department-top-three-salaries](https://github.com/aryanyadav13/SQL/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/aryanyadav13/SQL/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/aryanyadav13/SQL/tree/main/0197-rising-temperature/) | Easy |
